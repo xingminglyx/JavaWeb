@@ -31,7 +31,7 @@ first-child，选择的是父元素的第一个元素，如果是p:first-child�
 
 其他选择器：![image](https://github.com/xingminglyx/JavaWeb/blob/master/images/16.jpg)
 
-class是可以重复的，id是不可以重复的；*选择器是选中body里所有内容；逗号选择器可以同时设置几个选择器的样式；+找的是同一级的元素；
+class是可以重复的，id是不可以重复的，id选择器格式为#id；*选择器是选中body里所有内容；逗号选择器可以同时设置几个选择器的样式；+找的是同一级的元素；
 
 7.opacity:0.5(透明效果)
 

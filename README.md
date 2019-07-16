@@ -44,4 +44,9 @@
 ---
 链接：https://github.com/xingminglyx/JavaWeb/blob/master/JSON.md
 
+十二.jQuery笔记
+---
+链接：https://github.com/xingminglyx/JavaWeb/blob/master/jQuery.md
+
+
 **图片来源：https://github.com/xingminglyx/JavaWeb/tree/master/images

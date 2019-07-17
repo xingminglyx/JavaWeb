@@ -48,5 +48,9 @@
 ---
 链接：https://github.com/xingminglyx/JavaWeb/blob/master/jQuery.md
 
+十三.Ajax笔记
+---
+链接：https://github.com/xingminglyx/JavaWeb/blob/master/Ajax.md
+
 
 **图片来源：https://github.com/xingminglyx/JavaWeb/tree/master/images

@@ -18,3 +18,17 @@ xmlhttp.readyState属性说明XMLHttpRequest当前状态![image](https://github.
 xmlhttp.status属性服务器响应状态码，200：成功 404：未找到
 
 响应的内容通常采用json的数据格式。![image](https://github.com/xingminglyx/JavaWeb/blob/master/images/63.jpg)
+6.jQuery对Ajax的支持
+1.![image](https://github.com/xingminglyx/JavaWeb/blob/master/images/64.jpg)
+2.$.ajax({
+"url"："请求路径",
+"type":"请求方式",
+"data" :"参数",
+"dataType":"json",
+"success":function(json服务器返回的数据类型){
+},
+"error":function(xmlhttp,errorText){
+xmlhttp.status 错误状态码
+}
+})
+append()追加。
